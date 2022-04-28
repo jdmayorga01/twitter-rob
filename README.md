@@ -12,6 +12,7 @@ Por lo tanto, este proyecto utilizará la API de Twitter para descargar tweets r
 
 Algunas de las metodologías que serán utilizadas para este proyecto serán las siguientes: 
 1.	Twitter API para descargar datos de los tweets publicados por los bogotanos. 
-2.	Análisis de texto (Regex) para limpiar y análisis los textos de lo tweets
-3.	Procesamiento y análisis en pandas 
-4.	Hacer mapas en QGIS para ubicar las direcciones de los robos que son publicados en Twitter. 
+2.	Análisis de texto (Regex) para limpiar los textos de lo tweets y extraer la información necesaria.
+3.	Procesamiento y análisis en pandas.
+4.	Análisis de sentimientos de las personas que realzan tweets acerca de robos en Bogotá. 
+5.	Hacer mapas en QGIS para ubicar las direcciones de los robos que son publicados en Twitter. 
