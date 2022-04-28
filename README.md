@@ -10,3 +10,8 @@ Por lo tanto, este proyecto utilizará la API de Twitter para descargar tweets r
 -	¿En que momento se comparten más tweets relacionados a robos? Esto es importante porque puede dar una percepción de las horas mas críticas de la inseguridad en la ciudad.
 -	¿La migración cómo responsable? El 15 de septiembre de 2021 la alcaldesa Claudia Lopez culpó a los venezolanos por ola de inseguridad en Bogotá. ¿Este sentimiento es compartido por los ciudadanos? 
 
+Algunas de las metodologías que serán utilizadas para este proyecto serán las siguientes: 
+1.	Twitter API para descargar datos de los tweets publicados por los bogotanos. 
+2.	Análisis de texto (Regex) para limpiar y análisis los textos de lo tweets
+3.	Procesamiento y análisis en pandas 
+4.	Hacer mapas en QGIS para ubicar las direcciones de los robos que son publicados en Twitter. 
